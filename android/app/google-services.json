@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "634552170642",
+    "project_id": "manoj-kumar-76e68",
+    "storage_bucket": "manoj-kumar-76e68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634552170642:android:71e149e067ee8ab2710e4b",
+        "android_client_info": {
+          "package_name": "com.example.port_folio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634552170642-buc56ed7a5nld3tj5kc7i1qj3m71q1u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXWfLWuVM6Q4igpBDt7PRhsQVRPx4wkaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634552170642-buc56ed7a5nld3tj5kc7i1qj3m71q1u5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "634552170642-28t4d45oh5dkd274tu23q6v82j85ha8e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.portFolio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
